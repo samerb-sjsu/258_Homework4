@@ -7,7 +7,7 @@
 ## MNIST classifier with various training knobs with numpy and keras
 
 Results:
-  1. Numpy implementation: 80% test accuracy, 70% training accuracy (99.9% before dropout)
+  1. Numpy implementation: 80% test accuracy (84% before dropout), 70% training accuracy (99.9% before dropout)
   2. Keras implementation: 99% test accuracy, 98% training accuracy
 
 
